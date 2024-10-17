@@ -6,6 +6,6 @@ FiloClient is the best MC client IN THE WORLD.
 ![Filo Client 1 8 9 10_17_2024 2_02_57 PM](https://github.com/user-attachments/assets/9e736237-36ff-4896-b915-1e7529cf1f6f)
 ![Filo Client 1 8 9 10_17_2024 2_02_42 PM](https://github.com/user-attachments/assets/ef76b1aa-90d5-4d9a-86a7-2189d41a3341)
 Credits:
-TylerXD:Owner and founder.
-TheCoolAdor:Developer of everything.
+TylerXD: Owner and founder.
+TheCoolAdor: Developer of everything.
 Download: (URL HERE)
